@@ -123,3 +123,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+.gradle/
+.git/
+dataSources/
+.ideaDataSources/
+Scripts/
+*.cfg
